@@ -1,7 +1,7 @@
 #!/bin/bash
 
 style="power"
-rofi_command="rofi -theme /usr/share/rofi/themes/dmenu.rasi"
+rofi_command="rofi -theme ~/.config/rofi/themes/dmenu.rasi"
 
 # Options
 shutdown="Encerrar"
